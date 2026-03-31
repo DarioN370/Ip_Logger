@@ -1,4 +1,4 @@
-# 🛡️ Link Logger - Capturador de Metadados (Estudo de Segurança)
+# 🛡️ Link Logger - Capturador de Metadados
 
 Este projeto é um **IP Logger** invisível desenvolvido para fins educacionais. Ele demonstra como funciona o rastreamento de requisições HTTP, coleta de IPs e redirecionamento de tráfego, utilizando **Python (Flask)** e **MySQL**.
 
@@ -43,3 +43,7 @@ Você precisará instalar os seguintes softwares:
 Para colocar o link no ar, execute o arquivo principal:
 ```bash
 python app.py
+
+
+---
+
